@@ -1,7 +1,8 @@
 ## Informações
+* **Disciplina:** Desenvolvimento de Aplicativos Móveis Híbridos
 * **Campus:** Memorial
-* **Dia:** Segunda-Feira (Pós-aula)
-* **Período:** Manhã
+* **Dia:** Terça-Feira
+* **Período:** Noite
 
 ## Descrição
 * Este material é uma iniciativa independente para auxiliar os alunos, visando facilitar o acesso e o acompanhamento das atividades ministradas via **Google Meet**. Portanto, **não se caracteriza como material oficial da instituição.**
