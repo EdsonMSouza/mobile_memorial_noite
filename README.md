@@ -1,9 +1,15 @@
-## Material de apoio para o período emergencial devido ao **COVID-19**
+## Informações
+* **Campus:** Memorial
+* **Dia:** Segunda-Feira (Pós-aula)
+* **Período:** Manhã
+
+## Descrição
 * Este material é uma iniciativa independente para auxiliar os alunos, visando facilitar o acesso e o acompanhamento das atividades ministradas via **Google Meet**. Portanto, **não se caracteriza como material oficial da instituição.**
 * Todo o desenvolvimento de códigos e/ou materiais apresentados via **Google Meet** serão disponibilizados imediatamente após o término das aulas.
 
-## Disciplina
-Mobile | Memorial | Noite
+## Dicas Úteis
+* [Genymotion Free](https://www.genymotion.com/fun-zone/) - Alternativa ao emuldaor do Android Studio
+* [Habilitar Depurador no *Smartphone*](https://developer.android.com/training/basics/firstapp/running-app?hl=pt-br) - Executar os programas Android desenvolvidos no Android Studio
 
 ## Professor
 Edson Melo de Souza, Me. - ([prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)) - ([Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510))
