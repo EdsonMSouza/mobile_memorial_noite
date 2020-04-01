@@ -11,6 +11,7 @@
 ## Dicas Úteis
 * [Genymotion Free](https://www.genymotion.com/fun-zone/) - Alternativa ao emuldaor do Android Studio
 * [Habilitar Depurador no *Smartphone*](https://developer.android.com/training/basics/firstapp/running-app?hl=pt-br) - Executar os programas Android desenvolvidos no Android Studio
+* [Otimizar o Android Studio](https://www.thiengo.com.br/android-studio-instalacao-configuracao-e-otimizacao) - Dicas de como melhorar o desempenho do Android Studio em Equipamentos Antigos
 
 ## Professor
 Edson Melo de Souza, Me. - ([prof.edson.melo@gmail.com](mailto:prof.edson.melo@gmail.com)) - ([Currículo *Lattes*](http://lattes.cnpq.br/2641658716558510))
